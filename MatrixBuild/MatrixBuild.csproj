@@ -192,7 +192,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\site.css" />
-    <Content Include="readme.txt" />
     <Content Include="Scripts\jsx\matrixjs.jsx" />
     <Content Include="Scripts\matrixjs.js" />
     <Content Include="Scripts\react\react-dom.min.js" />
