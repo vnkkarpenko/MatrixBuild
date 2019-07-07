@@ -1,0 +1,15 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+#matrixcontent button {
+    min-width: 140px;
+    margin-bottom: 5px;
+}
+.table span {
+    margin: 15px;
+    font-size: 20px;
+}
+select {
+    max-width: 100px;
+}
